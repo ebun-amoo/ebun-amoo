@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @ebun-amoo
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning Web Development
-- 💞️ I’m looking to collaborate on projects relating to HTML,CSS and JavaScript
-- 📫 How to reach me ...
-
-<!---
-ebun-amoo/ebun-amoo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Hi there👋, I'm Ebun!
+- 🌱 I am currently learning Web App Development
+- 🤝 I am eager to collaborate on projects using HTML, CSS, Python, Flask and SQLite
+- 👩‍💻 I am interested in Backend developer and Software Engineering roles
+- 🚀 2023 Goal: Contribute to open source projects
+- 📫 How to reach me: [LInkedIn](https://www.linkedin.com/in/ebunoluwa-amoo/), [Email](ebunoluwaamoo@gmail.com)
